@@ -25,6 +25,8 @@ prerequisites, is to type:
 
     cabal update; cabal install idris
 
+- Windows users may need to add `Make <https://en.wikipedia.org/wiki/Make_(software)>`_ to their ``%PATH%``
+
 This will install the latest version released on Hackage, along with
 any dependencies. If, however, you would like the most up to date
 development version you can find it, as well as build instructions, on
